@@ -57,3 +57,6 @@ The Evowave will present only the molecules that match this criteria.
 
 Evowave is extremely configurable. You can map whatever you want to properties like:
 angle, color, amount of sectors, etc.
+
+### For further information 
+http://vismining.github.io/evowave/
